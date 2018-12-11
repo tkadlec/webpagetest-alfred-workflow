@@ -15,7 +15,7 @@
 2. Double-click on the downloaded file to import into Alfred
 3. In Alfred's preferences, navigate to the "Workflows" tab and click on the "WebPageTest" workflow.
 4. Click the "Configure Workflow and Variables" button 
-5. Enter your API key and change any of the default settings
+5. Enter your [API key](https://www.webpagetest.org/getkey.php) and change any of the default settings
 
 ## Commands
 - `wpt`: Test on a Moto G over a 3G network, from Dulles, VA (my most common test case, so I made it the default)
