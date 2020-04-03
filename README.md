@@ -1,4 +1,4 @@
-# WebPageTest Alfred Workflow ([Download v1.0.0](https://raw.github.com/tkadlec/webpagetest-alfred-workflow/master/WebPageTest.alfredworkflow))
+# WebPageTest Alfred Workflow ([Download v1.0.1](https://raw.github.com/tkadlec/webpagetest-alfred-workflow/master/WebPageTest.alfredworkflow))
 
 > A simple Alfred workflow for submitting test to WebPageTest. Tested on Alfred 3.7
 
